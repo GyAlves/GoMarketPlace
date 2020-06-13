@@ -35,6 +35,9 @@ Tecnologias e ferramentas utilizadas no projeto :
 
 - Typescript
 - React Native 
+- React Hooks 
+- Styled Components
+- Context API
 
 
 ##  Licence :memo:
